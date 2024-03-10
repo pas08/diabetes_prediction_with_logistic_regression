@@ -1,2 +1,3 @@
 # diabetes_prediction_with_logistic_regression
 This is a comprehensive analysis of a dataset related to diabetes outcomes using logistic regression. 
+It includes data exploration, categorical variable analysis, model building with different selection methods, and model diagnostics. Key predictors like Glucose, BMI, DiabetesPedigreeFunction, and Pregnancies are identified, with Insulin included despite its borderline significance. The final model fits the data well, as indicated by the Hosmer and Lemeshow test and the ROC curve, although the deviance residual plot suggests potential overfitting. The study concludes that these factors are significant in predicting diabetes outcomes, contributing to the understanding of diabetes risk factors.
